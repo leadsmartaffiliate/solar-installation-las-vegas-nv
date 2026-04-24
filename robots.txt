@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-las-vegas-nv.netlify.app/sitemap.xml
